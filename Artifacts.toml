@@ -1,0 +1,90 @@
+[[OpenFHE_int128]]
+arch = "aarch64"
+git-tree-sha1 = "a2c8d95e5276ccb0767f871918d90a547be98dfc"
+os = "macos"
+
+    [[OpenFHE_int128.download]]
+    sha256 = "e445f889f4392889de90f2bc0ee0b55569a1301d1c35ce50b08693fa25be170a"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.2.3+0/OpenFHE_int128.v1.2.3.aarch64-apple-darwin.tar.gz"
+[[OpenFHE_int128]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "782e94c60b16836a5cdabe6fac89e790dc5b5da4"
+libc = "glibc"
+os = "linux"
+
+    [[OpenFHE_int128.download]]
+    sha256 = "71c8ce5bfb6b0823c489e3bd98670875c68b29701fddd00b241606dff1ff69fc"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.2.3+0/OpenFHE_int128.v1.2.3.aarch64-linux-gnu-cxx03.tar.gz"
+[[OpenFHE_int128]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d5fbf8a171324d71c0496193780edd18b6dd33a0"
+libc = "glibc"
+os = "linux"
+
+    [[OpenFHE_int128.download]]
+    sha256 = "56e4b8937a3d8c82ba66e13d7288fa017fa35537ca36fb952fbdbf588d0a487c"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.2.3+0/OpenFHE_int128.v1.2.3.aarch64-linux-gnu-cxx11.tar.gz"
+[[OpenFHE_int128]]
+arch = "aarch64"
+git-tree-sha1 = "16608d3b2e5d5e792383c165df4519915f98c8df"
+os = "freebsd"
+
+    [[OpenFHE_int128.download]]
+    sha256 = "53cea5e7a08f9c6b66f14ab567198cea28b9c99dfcea176b9f8bd9ebd0e42b27"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.2.3+0/OpenFHE_int128.v1.2.3.aarch64-unknown-freebsd.tar.gz"
+[[OpenFHE_int128]]
+arch = "x86_64"
+git-tree-sha1 = "c1afa281ab678445cb4960438225ecc8adabe1e5"
+os = "macos"
+
+    [[OpenFHE_int128.download]]
+    sha256 = "abc148c8d1a7ca40e50359df24f1e86050312d23c247c008526f33fdfe64ceb3"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.2.3+0/OpenFHE_int128.v1.2.3.x86_64-apple-darwin.tar.gz"
+[[OpenFHE_int128]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e38c8cbdb9c3cbe775f61a8a01fa7112c52045e8"
+libc = "glibc"
+os = "linux"
+
+    [[OpenFHE_int128.download]]
+    sha256 = "295bfc1d07f3a03c7876202aafeb3be6dc13638f97f535755da3b7cdc320b2fd"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.2.3+0/OpenFHE_int128.v1.2.3.x86_64-linux-gnu-cxx03.tar.gz"
+[[OpenFHE_int128]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9f39b96f9033f6157b1889dc34cf561452c3205e"
+libc = "glibc"
+os = "linux"
+
+    [[OpenFHE_int128.download]]
+    sha256 = "cffbde162d9a1291a993d50cf1a1bbf92c056d6523b54340b2476b3e659f26c5"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.2.3+0/OpenFHE_int128.v1.2.3.x86_64-linux-gnu-cxx11.tar.gz"
+[[OpenFHE_int128]]
+arch = "x86_64"
+git-tree-sha1 = "14942f0beb8ed2989cbb515d8fb59bc2ffccbcdb"
+os = "freebsd"
+
+    [[OpenFHE_int128.download]]
+    sha256 = "99d8dfd7820462cfe1c71412d4c5e5a16485a3437482db30ed803d9c8e3b1bca"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.2.3+0/OpenFHE_int128.v1.2.3.x86_64-unknown-freebsd.tar.gz"
+[[OpenFHE_int128]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "04978e3caf90cd72b358a3f1ec2f14eaa73e43f5"
+os = "windows"
+
+    [[OpenFHE_int128.download]]
+    sha256 = "8d76ad87d8450ffad627468f1959fe387e1225486f40933e4c0b717b30f5c509"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.2.3+0/OpenFHE_int128.v1.2.3.x86_64-w64-mingw32-cxx03.tar.gz"
+[[OpenFHE_int128]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a5a91b77a7c47a225b94d8f036ed6af80501918d"
+os = "windows"
+
+    [[OpenFHE_int128.download]]
+    sha256 = "3dd8a96f99e4ed9632fac38d5d0bc5acebe05dcedb0a1ba1ec73e7a725e58ba0"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.2.3+0/OpenFHE_int128.v1.2.3.x86_64-w64-mingw32-cxx11.tar.gz"
