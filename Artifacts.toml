@@ -1,71 +1,71 @@
 [[OpenFHE_int128]]
 arch = "aarch64"
-git-tree-sha1 = "72266f870e9abf1b25da585fc843bb19ba6b7706"
+git-tree-sha1 = "0ef2647fae39a26c7fd99442ac36e36b90067ace"
 os = "macos"
 
     [[OpenFHE_int128.download]]
-    sha256 = "ae6b243e05a76d0a42c52c1ba53e30074ca8e16763e432a118195c1d3fa7c6f3"
-    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.5.0+0/OpenFHE_int128.v1.5.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "d4b36e6fb02ece306fa2629893a1207b18f1be021acda09f0d0a684dbc94679c"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.5.1+0/OpenFHE_int128.v1.5.1.aarch64-apple-darwin.tar.gz"
 [[OpenFHE_int128]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "541da41e2468690a6554b44494821f19c0e76d3c"
+git-tree-sha1 = "fc114c7bb88855dfbf397dab8f17034d34cf8b6e"
 libc = "glibc"
 os = "linux"
 
     [[OpenFHE_int128.download]]
-    sha256 = "5bbcd4321f315a3ab3ed4299239fafd28559e70c3a45205a78f728963f1bc186"
-    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.5.0+0/OpenFHE_int128.v1.5.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "619ae35ce0fa4ba1f097d9146326833f70e43fca0073e49dcd0a9a7dade243f4"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.5.1+0/OpenFHE_int128.v1.5.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[OpenFHE_int128]]
 arch = "aarch64"
-git-tree-sha1 = "6a1f8da746f61230c9cef0044528bce58135af7c"
+git-tree-sha1 = "3187beb0de1ba86b440a78ff6c60824b67a1ec2c"
 os = "freebsd"
 
     [[OpenFHE_int128.download]]
-    sha256 = "53218975b6f7d2f28dffe9e1aa8389f9f725228b33127b5d7d433e32b00caf58"
-    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.5.0+0/OpenFHE_int128.v1.5.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "9a8ae98b58164584ae153304ef0da7d006321bf1d952eb2e417f26b07e05697a"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.5.1+0/OpenFHE_int128.v1.5.1.aarch64-unknown-freebsd.tar.gz"
 [[OpenFHE_int128]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "47465494f4602da04db9c0259ea72ad70c6f5b34"
+git-tree-sha1 = "be9d7b97ff93e32f555edcb0c718b012a6856455"
 libc = "glibc"
 os = "linux"
 
     [[OpenFHE_int128.download]]
-    sha256 = "3f18ba55b7aabf43fbcf995fe1496a9f4dede0661c11dfbce0f4dbecc5865ceb"
-    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.5.0+0/OpenFHE_int128.v1.5.0.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "90981604cfa0bca339dc1115a7e1a56024ac9f088463fe237d1bc98a89bc36dd"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.5.1+0/OpenFHE_int128.v1.5.1.riscv64-linux-gnu-cxx11.tar.gz"
 [[OpenFHE_int128]]
 arch = "x86_64"
-git-tree-sha1 = "58c60058a7834cfbc958e3375da8f57da0fcb6c4"
+git-tree-sha1 = "82826f8bfff28837f2116cd837e9cfb828334a7f"
 os = "macos"
 
     [[OpenFHE_int128.download]]
-    sha256 = "153d77a777e8abe9397f7200bc53baa6fd95c34c476e163c3887e0718b0a675e"
-    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.5.0+0/OpenFHE_int128.v1.5.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "eea8173933b068a16fea80611febc8be32c543cac7ef295dc85fcc99e7e3a4ad"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.5.1+0/OpenFHE_int128.v1.5.1.x86_64-apple-darwin.tar.gz"
 [[OpenFHE_int128]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ca1405a88925cff72434d66e44d95d37e29fbe82"
+git-tree-sha1 = "2ce0ab3ef3af86b4aa6b12f21f4ebb01b5cbb245"
 libc = "glibc"
 os = "linux"
 
     [[OpenFHE_int128.download]]
-    sha256 = "356f094ab266282f2181d7be1a2a5bdd71dc280db424f953e2fb518914ea036b"
-    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.5.0+0/OpenFHE_int128.v1.5.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "0c114b29adc2412a9af6a2a6d05886575d5945d0cc692a0ceb77320b5a0b89de"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.5.1+0/OpenFHE_int128.v1.5.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[OpenFHE_int128]]
 arch = "x86_64"
-git-tree-sha1 = "3c96d1a3973ea706000f5103702148dfe77cca31"
+git-tree-sha1 = "6d86ea29c359fbbaa5b6ee934ea0cd966685a20f"
 os = "freebsd"
 
     [[OpenFHE_int128.download]]
-    sha256 = "5dbe47e20852382e729f0774a6fec4873773da064a273f63e7b52d8eac663d14"
-    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.5.0+0/OpenFHE_int128.v1.5.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "57fe2e1327f9839626ed515c75656a7bbefc6de5601812cbd05828058e7e8c9d"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.5.1+0/OpenFHE_int128.v1.5.1.x86_64-unknown-freebsd.tar.gz"
 [[OpenFHE_int128]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bb8b450313cf2cfbdc6b34de8b12567d63b269ba"
+git-tree-sha1 = "f3f455421538f35005cab9b1aa8c91f7297b1eb1"
 os = "windows"
 
     [[OpenFHE_int128.download]]
-    sha256 = "bfa87186eb6f41d28811ae81aaaad8e09402d2a486dd2799b4b46e6ebd018663"
-    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.5.0+0/OpenFHE_int128.v1.5.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "f86b61e8fd4efc8c177cb2322134570dae7a57f95f70f80109124e11c499b5fd"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_int128_jll.jl/releases/download/OpenFHE_int128-v1.5.1+0/OpenFHE_int128.v1.5.1.x86_64-w64-mingw32-cxx11.tar.gz"
